@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Deborah
+=======
+manager: Branda
+>>>>>>> e1863f3 (Edit Tigers manager)
 
 members:
 - George
@@ -8,4 +12,7 @@ members:
 - Wulliam
 - David
 - main
+<<<<<<< HEAD
 - Tyler- Tyler
+=======
+>>>>>>> e1863f3 (Edit Tigers manager)
