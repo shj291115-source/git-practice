@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 team : panthers
 manager : Sebastian
 members:
@@ -6,3 +7,6 @@ members:
 - Antnony
 - Freddie
 to-delete
+=======
+to-erase
+>>>>>>> 80f77ef (Add to-erase to Panthers.yaml)
